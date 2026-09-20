@@ -226,4 +226,3 @@ class RAGRetriever:
     rag_retriever.retrieve("What is encoder decoder")
 
 
-    
